@@ -1,0 +1,22 @@
+  {
+    "name": "Upark",
+    "short_name": "Upark",
+    "description": "Este es el manifest de Upark, vamos a instalar troyanos y virus jaja ahora estas jackeado",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/assets/img/fondo.png",
+        "type": "image/png",
+        "sizes": "1200x673"
+      },
+      {
+        "src": "/img/back.jpg",
+        "type": "image/png",
+        "sizes": "3968x2613"
+      }
+    ]
+  }
+  
